@@ -25,5 +25,5 @@ This Python project collects data from a UART device (specifically GPS data from
 
 1. Clone the repository (replace with your actual repository URL if applicable):
    ```bash
-   git clone https://github.com/khanhn29/alchemist.git
-   cd alchemist
+   git clone https://github.com/khanhn29/UART2CSV2FTP.git
+   cd UART2CSV2FTP
